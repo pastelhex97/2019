@@ -1,5 +1,5 @@
-# 2019
-This was my fifth portfolio site made from scratch. I used it from 2019 to 2020.
+# mid-2019
+This was my sixth portfolio site made from scratch. I used it from 2019 to 2020.
 
 ### All Versions of My Portfolio Website
 
